@@ -1,0 +1,16 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¼‡ÃÒûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(‚ĞÄ®ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¤çª½
+@	java:S106"+Replace this use of System.out by a logger.(¬ğĞ
+E	java:S106"+Replace this use of System.out by a logger.(óßİºúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(»˜¹ãúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ê€¡üÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(Ôé¸Çúÿÿÿÿ
+@	java:S106("+Replace this use of System.out by a logger.(·¹äÛ
+E	java:S1068"+Replace this use of System.out by a logger.(ıˆïµüÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(ˆ¿”ßüÿÿÿÿ
+E	java:S106I"+Replace this use of System.out by a logger.(Œê²ìøÿÿÿÿ
+E	java:S106Y"+Replace this use of System.out by a logger.(Ùñ’Ñıÿÿÿÿ
+@	java:S106["+Replace this use of System.out by a logger.(ÊÂ·Ë

@@ -1,0 +1,22 @@
+
+o
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8Í‚´ŽÃ1
+G	java:S106"+Replace this use of System.out by a logger.(¢Ì¬¢8Û‚´ŽÃ1
+L	java:S106"+Replace this use of System.out by a logger.(ˆ¯Ëùøÿÿÿÿ8Û‚´ŽÃ1
+G	java:S106%"+Replace this use of System.out by a logger.(ƒ”€Ç8Ü‚´ŽÃ1
+L	java:S106*"+Replace this use of System.out by a logger.(¬ÄáÆùÿÿÿÿ8Ü‚´ŽÃ1
+G	java:S106/"+Replace this use of System.out by a logger.(Éìêã8Ü‚´ŽÃ1
+L	java:S1060"+Replace this use of System.out by a logger.(Ç…œŠøÿÿÿÿ8Ü‚´ŽÃ1
+G	java:S1061"+Replace this use of System.out by a logger.(·”äð8Ü‚´ŽÃ1
+F	java:S1062"+Replace this use of System.out by a logger.(Ô‘›8Ý‚´ŽÃ1
+L	java:S1063"+Replace this use of System.out by a logger.(ˆÊóÄûÿÿÿÿ8Ý‚´ŽÃ1
+F	java:S1064"+Replace this use of System.out by a logger.(‰º»58Ý‚´ŽÃ1
+G	java:S1065"+Replace this use of System.out by a logger.(ö‡éÉ8Ý‚´ŽÃ1
+F	java:S1066"+Replace this use of System.out by a logger.(ª£›?8Ý‚´ŽÃ1
+L	java:S1067"+Replace this use of System.out by a logger.(Ï­×Ñûÿÿÿÿ8Ý‚´ŽÃ1
+L	java:S106W"+Replace this use of System.out by a logger.(ÐÖÇ¿úÿÿÿÿ8ß‚´ŽÃ1
+L	java:S106Z"+Replace this use of System.out by a logger.(Ôé¸Çúÿÿÿÿ8ß‚´ŽÃ1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8à‚´ŽÃ1
+ã
+java:S6541	"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 77 to 64, Complexity from 16 to 14, Nesting Level from 4 to 2, Number of Variables from 10 to 6.(Çµí‘8á‚´ŽÃ1
